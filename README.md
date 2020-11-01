@@ -39,6 +39,7 @@ Image processing methods to extract outfit given below;
   * Apply generated mask
   * Find largest contour to remove unnecessary area
   * Crop largest contour
+  * Eraser paints a tranparent layer where it is stroked
 
 ### Fit Outfit on Camera Preview
 TRY-IT uses a tensorflow-lite model to estimate certain points on user's body during camera preview.<br/> 
