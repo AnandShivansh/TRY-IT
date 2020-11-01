@@ -12,7 +12,7 @@ It allows users to see how an outfit will look on them by using image processing
 <br>  <img src="https://github.com/AnandShivansh/TRY-IT/blob/master/Screenshots/MainPage.jpeg" height=650 width=300>
  <img src="https://github.com/AnandShivansh/TRY-IT/blob/master/Screenshots/AddOutFit_from_gallery.jpeg" height=650 width=300>
 <img src="https://github.com/AnandShivansh/TRY-IT/blob/master/Screenshots/Share_from_online_store.jpeg" height=650 width=300>
-<img src="https://github.com/AnandShivansh/TRY-IT/blob/master/Screenshots/Select_outfit.jpeg" height=650 width=300></br>
+<img src="https://github.com/AnandShivansh/TRY-IT/blob/master/Screenshots/Select_outfit.jpeg" height=400 width=200>
 <img src="https://github.com/AnandShivansh/TRY-IT/blob/master/Screenshots/Camera_Preview.jpeg" height=650 width=300></br>
 
 <br/><br/>
