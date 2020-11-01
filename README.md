@@ -62,14 +62,26 @@ According to its category, the outfit size and position are calculated by using;
 
 
 <br/><br/>
+### Backend
+* Used Flask for API services.
+* Used selenium for scraping the image link from url send in API requests.
+* Used OKHTTP for API requests.
+* Currently, the server is running on localhost.
+
 ## Software and Tools
 * Android Studio 3.2.1
 * TensorFlow-Lite
 * OpenCV 4.1
 * SQLite
+* Flask
+* Python
+* Selenium
 
 
+### Note
+* The application has onetime onboarding screen which explains whole application. It runs only once on installation.
 <br/><br/>
+
 ## Future Development
   ### Functional
   * Users will be allowed to create outfit combinations
@@ -78,4 +90,3 @@ According to its category, the outfit size and position are calculated by using;
   ### System
   * Semantic segmentation to extract outfit in a more efficient way
   * 3D modeling for a more realistic result
-  * Sharing the outfit image from various online stores and trying them at home by using jsoup
