@@ -1,5 +1,5 @@
 # TRY-IT Mobile Application
-![LOGO](https://github.com/AnandShivansh/TRY-IT/blob/master/app/src/main/ic_launcher-playstore.png)
+![LOGO](https://github.com/AnandShivansh/TRY-IT/blob/master/app/src/main/ic_launcher-playstore.png height=400 width=200)
 
 
 ## Description
