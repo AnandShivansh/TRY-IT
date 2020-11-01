@@ -1,5 +1,5 @@
 # TRY-IT Mobile Application
-![LOGO](https://github.com/AnandShivansh/TRY-IT/blob/master/app/src/main/ic_launcher-playstore.png height=400 width=200)
+![LOGO](https://github.com/AnandShivansh/TRY-IT/blob/master/app/src/main/ic_launcher-playstore.png)
 
 
 ## Description
@@ -9,11 +9,11 @@ It allows users to see how an outfit will look on them by using image processing
 
 <br/><br/>
 ## Screenshots
-<br>  <img src="https://github.com/AnandShivansh/TRY-IT/blob/master/Screenshots/MainPage.jpeg" height=650 width=300>
- <img src="https://github.com/AnandShivansh/TRY-IT/blob/master/Screenshots/AddOutFit_from_gallery.jpeg" height=650 width=300>
-<img src="https://github.com/AnandShivansh/TRY-IT/blob/master/Screenshots/Share_from_online_store.jpeg" height=650 width=300>
+<br>  <img src="https://github.com/AnandShivansh/TRY-IT/blob/master/Screenshots/MainPage.jpeg" height=400 width=200>
+ <img src="https://github.com/AnandShivansh/TRY-IT/blob/master/Screenshots/AddOutFit_from_gallery.jpeg" height=400 width=200>
+<img src="https://github.com/AnandShivansh/TRY-IT/blob/master/Screenshots/Share_from_online_store.jpeg" height=400 width=200>
 <img src="https://github.com/AnandShivansh/TRY-IT/blob/master/Screenshots/Select_outfit.jpeg" height=400 width=200>
-<img src="https://github.com/AnandShivansh/TRY-IT/blob/master/Screenshots/Camera_Preview.jpeg" height=650 width=300></br>
+<img src="https://github.com/AnandShivansh/TRY-IT/blob/master/Screenshots/Camera_Preview.jpeg" height=400 width=200></br>
 
 <br/><br/>
 ## How does it work ?
