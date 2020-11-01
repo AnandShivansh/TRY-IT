@@ -1,5 +1,5 @@
 # TRY-IT Mobile Application
-<img src="https://github.com/AnandShivansh/TRY-IT/blob/master/app/src/main/ic_launcher-playstore.png" height=300 width=150>
+<img src="https://github.com/AnandShivansh/TRY-IT/blob/master/app/src/main/ic_launcher-playstore.png" height=150 width=150>
 
 
 ## Description
@@ -18,11 +18,19 @@ It allows users to see how an outfit will look on them by using image processing
 <br/><br/>
 ## How does it work ?
 ### Add Outfit
-TRY-IT allows users to add their own outfit from gallery.<br/>
-The selected outfit is processed according to a sensitivity rate given by the user.<br/>
-User selects a category to store outfit.<br/>
-The outfit stored in database.<br/><br/>
-
+There are various ways to add outfit in TRY-IT : <br/>
+<ul>
+<li>Add oufit from gallery from the app itself.</li>
+<li>Share oufit from gallery when the app is not running, from the share pane</li>
+<li>Share oufit from online shopping website when the app is not running, from the share pane. This makes a server request and then gets back image url, which is used to download the image on frontend.</li>
+</ul><br/>
+### Preprocess and Save the OutFit
+<ul>
+<li>The selected outfit is processed according to a sensitivity rate given by the user.</li>
+<li>If the user is not satisfied by the preprocessing, he can use the eraser to retune it according to himself.</li>
+<li>User selects a category to store the outfit.</li>
+<li>The outfit stored in database.</li>
+</ul>
 Image processing methods to extract outfit given below;
   * Add alpha channel to image
   * Boolean Masking (Binary Threshold)
