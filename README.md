@@ -31,15 +31,18 @@ There are various ways to add outfit in TRY-IT : <br/>
 <li>User selects a category to store the outfit.</li>
 <li>The outfit stored in database.</li>
 </ul>
-Image processing methods to extract outfit given below;
-  * Add alpha channel to image
-  * Boolean Masking (Binary Threshold)
-  * Noise Removal (Gaussian Blur)
-  * Generate mask to make background transparent
-  * Apply generated mask
-  * Find largest contour to remove unnecessary area
-  * Crop largest contour
-  * Eraser paints a tranparent layer where it is stroked
+
+Image processing methods to extract outfit are given below:
+<ul>
+ <li>Add alpha channel to image</li>
+ <li>Boolean Masking (Binary Threshold)</li>
+ <li>Noise Removal (Gaussian Blur)</li>
+ <li>Generate mask to make background transparent</li>
+ <li>Apply generated mask</li>
+ <li>Find largest contour to remove unnecessary area</li>
+ <li>Crop largest contour</li>
+ <li>Eraser paints a tranparent layer where it is stroked</li>
+ </ul>
 
 ### Fit Outfit on Camera Preview
 TRY-IT uses a tensorflow-lite model to estimate certain points on user's body during camera preview.<br/> 
