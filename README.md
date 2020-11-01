@@ -9,11 +9,11 @@ It allows users to see how an outfit will look on them by using image processing
 
 <br/><br/>
 ## Screenshots
-<br>  <img src="https://github.com/AnandShivansh/TRY-IT/blob/master/Screenshots/MainPage.jpeg" height=400 width=200>
- <img src="https://github.com/AnandShivansh/TRY-IT/blob/master/Screenshots/AddOutFit_from_gallery.jpeg" height=400 width=200>
-<img src="https://github.com/AnandShivansh/TRY-IT/blob/master/Screenshots/Share_from_online_store.jpeg" height=400 width=200>
-<img src="https://github.com/AnandShivansh/TRY-IT/blob/master/Screenshots/Select_outfit.jpeg" height=400 width=200>
-<img src="https://github.com/AnandShivansh/TRY-IT/blob/master/Screenshots/Camera_Preview.jpeg" height=400 width=200></br>
+<br>  <img src="https://github.com/AnandShivansh/TRY-IT/blob/master/Screenshots/MainPage.jpeg" height=300 width=150>
+ <img src="https://github.com/AnandShivansh/TRY-IT/blob/master/Screenshots/AddOutFit_from_gallery.jpeg" height=300 width=150>
+<img src="https://github.com/AnandShivansh/TRY-IT/blob/master/Screenshots/Share_from_online_store.jpeg" height=300 width=150>
+<img src="https://github.com/AnandShivansh/TRY-IT/blob/master/Screenshots/Select_outfit.jpeg" height=300 width=150>
+<img src="https://github.com/AnandShivansh/TRY-IT/blob/master/Screenshots/Camera_Preview.jpeg" height=300 width=150></br>
 
 <br/><br/>
 ## How does it work ?
